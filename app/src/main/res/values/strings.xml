@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz App Pro</string>
+    <string name="science">Science</string>
+    <string name="history">History</string>
+    <string name="enter">Entertainment
+    </string>
+    <string name="q1his">Who is the first person to land on the Moon ?</string>
+    <string name="h2so4">H2SO4</string>
+    <string name="no2">NO2</string>
+    <string name="h2o">H2O</string>
+    <string name="chemical_formula_of_water_is">Chemical formula of water is ?</string>
+    <string name="you_have_reached_the_end">You have reached the end</string>
+    <string name="goto_main">Goto main</string>
+    <string name="neil_armstrong">Neil Armstrong</string>
+    <string name="buzz_aldrin">Buzz Aldrin</string>
+    <string name="the_director_of_dark_knight_rises_is">The director of Dark knight rises is ?</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="christopher_nolan">Christopher Nolan</string>
+    <string name="mathew_hagen">Mathew Hagen</string>
+</resources>
